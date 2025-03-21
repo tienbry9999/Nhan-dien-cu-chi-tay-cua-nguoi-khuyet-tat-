@@ -98,8 +98,7 @@ Nếu kết quả chưa tốt, có thể thu thập thêm dữ liệu và huấn
 ✅ 😟 Lo lắng – "Bạn đang cảm thấy lo lắng."
 ✅ 😡 Tức giận – "Bạn đang cảm thấy tức giận."
 ✅ 😀 Vui – "Bạn đang cảm thấy vui."
-✅ 😳 Xấu hổ – "Bạn đang cảm thấy xấu hổ."
-
+✅ 😳 Xấu hổ – "Bạn đang cảm thấy xấu hổ.
 📌 Ghi chú
 ✔ Nhấn 'q' để thoát chương trình.
 ✔ Đảm bảo webcam và loa hoạt động bình thường để có trải nghiệm tốt nhất.
@@ -107,3 +106,6 @@ Nếu kết quả chưa tốt, có thể thu thập thêm dữ liệu và huấn
 📝 Giấy phép
 © 2025 Nhóm 4 - Lớp CNTT 1603 🎓
 🏫 Trường Đại học Đại Nam
+
+
+
