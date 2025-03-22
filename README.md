@@ -1,7 +1,5 @@
 # 🖐 Hệ thống nhận diện cử chỉ tay trong thời gian thực và chuyển những ký hiệu thành giọng nói 🎤
-
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/40c363ea-1adb-4ec7-93d5-71c174208555)
 
 ## 🚀 Giới thiệu  
 Dự án này sử dụng **MediaPipe, TensorFlow, OpenCV** để nhận diện cử chỉ tay và chuyển đổi chúng thành giọng nói thông qua webcam.  
